@@ -1,0 +1,370 @@
+/*
+	Responsive Media Query
+	
+	#Laptop
+	#desktop
+	#Small Device
+	#Mobile Device
+ */
+
+@media screen and (max-width: 991px){
+	#menu {
+        display: none;
+    }
+    .logo-nav-col .nav-wrapper{
+    	display: none;
+    }
+    .logo-nav-col .logo {
+        float: none;
+        text-align: center;
+    }
+    .logo-nav-col .img{
+    	float: none;
+    	text-align: center;
+    }
+    .slicknav_menu {
+        display: block;
+    }
+    .slicknav_menu li a {
+        text-decoration: none;
+    }
+    .logo-nav-col.sticky {
+        display: none;
+    }
+	.header-top-col .social-tab{
+		text-align: center;
+	}
+	.header-top-col .social-tab ul{
+    	display: inline-block;
+	}
+	.header-top-col .contact-top{
+		text-align: center;
+	}
+	.header-top-col .contact-top ul{
+		display: inline-block;
+	}
+	.header-top-col .log-top{
+		text-align: center;
+	}
+	.header-top-col .log-top ul{
+		float: none;
+		display: inline-block;
+	}
+	.wordpress-hosting-col .icon{
+		margin-top: 30px;
+		text-align: center;
+	}
+	.wordpress-hosting-col .text .para{
+		margin-top: 0;
+		padding: 0px 10px;
+	}
+	.wordpress-hosting-col .text .para p{
+		padding-top: 30px;
+	}
+	.wordpress-hosting-col .text .button{
+		text-align: center;
+	}
+	.control-panel-col .control-text{
+		text-align: center;
+	}
+	.control-panel-col .img{
+		margin-top: 30px;
+	}
+	.hosting-panel .shared-hosting{
+		padding: 0;
+	}
+	.hosting-panel .wordpress-hosting{
+		padding: 0;
+	}
+	.blog-col .blog-right{
+		margin-top: 30px;
+		margin-left: 15px;
+		margin-right: 15px;
+	}
+	.newsletter .text h2{
+		text-align: center;
+		margin: 0;
+		margin-bottom: 30px;
+	}
+	.specification-col .box{
+		margin-left: 0;
+	}
+	.specification-col .box ul li{
+		border-left: 1px solid #ddd;
+	}
+	.specification-col .left-box{
+		margin-top: -30px;
+	}
+	.contact-col .input-feild .input .name-email .name{
+		float: none;
+		width: 100%;
+		display: block;
+	}
+	.contact-col .input-feild .input .name-email .email{
+		float: none;
+		width: 100%;
+		display: block;
+		padding-top: 20px;
+	}
+	.error-col .error-img img{
+		width: 100.3%;
+	}
+
+}
+@media screen and (min-width: 991px) and (max-width: 1199px){
+	.kind-of-domain .search-domain .price .text{
+		margin-right: 4px;
+	}
+	.kind-of-domain .feature .feature-box .feature-text h2{
+		font-size: 14px;
+	}
+	.kind-of-domain .search-domain .price .text p{
+		padding: 3px 7px;
+	}
+	.kind-of-domain .feature .text h2{
+		font-size: 26px;
+	}
+	.kind-of-domain .feature .feature-box .feature-text p{
+		font-size: 14px;
+	}
+	.additional-col .additional .text h3{
+		font-size: 18px;
+	}
+	.wordpress-hosting-col .icon i{
+		font-size: 250px;
+	}
+	.wordpress-hosting-col .text .para{
+		margin-top: 30px;
+	}
+	.control-panel-col .control-text .text h2{
+		font-size: 26px;
+	}
+	.blog-col .main-blog .blog-body .heading-text .date h2{
+		font-size: 16px;
+	}
+	.blog-col .main-blog .blog-body .heading-text .heading h2{
+		font-size: 20px;
+	}
+	.blog-col .tab-content .single-content .item .text h3{
+		font-size: 16px;
+	}
+	.newsletter .input input[type="email"]{
+		width: 58%;
+	}
+	.footer-main .item .text h2{
+		font-size: 26px;
+	}
+	.hosting-gurantees-col .gurantees .text h2{
+		font-size: 20px;
+	}
+	.chose-us-col .right .item .text h3{
+		font-size: 20px;
+	}
+	.virtual-server .text{
+		padding-top: 0;
+	}
+	.error-col .error-left .input input[type="text"]{
+		width: 86%;
+	}
+	.under-construction .input input[type="text"]{
+		width: 68%;
+	}
+	.footer-main .item-first .img img{
+		max-height: 48px;
+	}
+}
+@media screen and (min-width: 591px) and (max-width: 990px){
+	.kind-of-domain .search-domain .price{
+		display: inline-block;
+	}
+	.feature-col .feature .img{
+		margin-top: 0;
+	}
+}
+@media screen and (max-width: 590px){
+	.kind-of-domain .search-domain .price .text{
+		float: none;
+		width: 100%;
+	}
+	.kind-of-domain .search-domain .price .text p{
+		padding: 5px 0px;
+	}
+	.kind-of-domain .feature .text h2{
+		font-size: 19px;
+	}
+	.wordpress-hosting-col .heading-col h2{
+		font-size: 20px;
+	}
+}
+@media screen and (min-width: 590px) and (max-width:600px){
+	.kind-of-domain .search-domain .price .text{
+		margin-right: 24px;
+	}
+}
+@media screen and (max-width: 767px){
+	.additional-col .additional{
+		text-align: center;
+	}
+	.additional-col .additional .icon{
+		float: none;
+		margin-bottom: 5px;
+	}
+	.hosting-overview-col .text{
+		text-align: center;
+	}
+	.hosting-overview-col .img{
+		margin-top: 30px;
+	}
+	.footer-middle .we-apccpet{
+		text-align: center;
+	}
+	.footer-middle .we-apccpet .text{
+		float: none;
+		display: inline-block;
+	}
+	.footer-middle .we-apccpet .img{
+		display: inline-block;
+	}
+	.footer-middle .social{
+		text-align: center;
+	}
+	.footer-middle .social ul{
+		float: none;
+		display: inline-block;
+	}
+	.virtual-server .text{
+		text-align: center;
+	}
+	.contact-col .address{
+		margin-top: 30px;
+	}
+}
+
+@media screen and (max-width: 440px){
+	.diciding-col .heading-col h2{
+		font-size: 29px;
+	}
+	.footer-bottom p{
+		font-size: 14px;
+	}
+	.specification-col .heading-col h2{
+		font-size: 30px;
+	}
+}
+@media screen and (max-width: 480px){
+	.hosting-overview-col .text h2{
+		font-size: 20px;
+	}
+	.kind-of-domain .search-domain button{
+		font-size: 15px;
+	}
+	.banner-col .banner{
+		padding: 0px 0px;
+	}
+	.banner-col .banner h2{
+		font-size: 28px;
+	}
+	.error-col .error-left .input input[type="text"]{
+		width: 85%;
+	}
+	.blog-single .single-blog-details .tag-box ul li:last-child{
+		margin-left: 0;
+	}
+	.blog-single .about-author .details .text{
+		overflow: hidden;
+	}
+}
+@media screen and (max-width: 563px){
+	.control-panel-col .control-text .text h2{
+		font-size: 20px;
+	}
+	.chose-us-col .right .item .text h3{
+		font-size: 16px;
+	}
+	.blog-single .about-author .details .list{
+		text-align: center;
+	}
+	.blog-single .about-author .details .list ul{
+		display: inline-block;
+	}
+}
+@media screen and (max-width: 510px){
+	.feature-col .feature .text h2{
+		font-size: 25px;
+	}
+	.newsletter .text h2{
+		font-size: 24px;
+	}
+	.newsletter .input input[type="email"]{
+		width: 100%;
+		margin-bottom: 30px;
+		display: block;
+	}
+	.newsletter .input{
+		text-align: center;
+		
+	}
+}
+@media screen and (max-width: 510px){
+	.footer-middle .we-apccpet .text p{
+		margin-top: 0px;
+		margin-bottom: 20px;
+	}
+	.footer-middle .social{
+		margin-top: 0;
+		margin-top:20px;
+	}
+}
+@media screen and (min-width: 511px) and (max-width: 767px){
+	.footer-middle .social{
+		margin-top:20px;
+	}
+}
+
+
+@media screen and (min-width: 650px) and (max-width:991px){
+	.banner-col .banner{
+		padding: 0px 100px;
+	}
+	.banner-col .banner h2{
+		font-size: 30px;
+	}
+}
+@media screen and (min-width: 481px) and (max-width:649px){
+	.banner-col .banner{
+		padding: 0px 0px;
+	}
+}
+@media screen and (min-width: 768px) and (max-width: 991px){
+	.virtual-server .text{
+		padding-top: 0;
+	}
+	.footer-main .item-first .text{
+		margin-top: 10px!important;
+	}
+}
+@media screen and (max-width: 700px){
+	.search-domain-col .domain .input button{
+		width: 25%;
+	}
+	.search-domain-col .domain .list ul li {
+		display: block!important;
+		border-right: 0;
+	}
+}
+@media screen and (min-width: 992px) {
+    .slicknav_menu {
+        display: none;
+    }
+    #menu {
+        display: block;
+    }
+}
+@media screen and (max-width: 526px){
+	.under-construction .input button{
+		margin-top: 15px;
+	}
+	.under-construction .input input[type="text"]{
+		margin-top: 15px;
+	}
+}

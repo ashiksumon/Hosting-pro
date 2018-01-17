@@ -1,0 +1,355 @@
+
+/*
+Sunshade:#ffad33;
+
+*/
+.ColorSwitcher__control{
+    background:#ffad33;
+}
+.heading-col h2{
+    color: #ffad33;
+}
+.heading-col h2:after{
+    background: #ffad33;
+}
+.header-top-col .social-tab ul li a:hover{
+    color:#ffad33;
+}
+.header-top-col .contact-top ul li a:hover{
+    color:#ffad33;
+}
+.header-top-col .log-top ul li a:hover{
+    color:#ffad33;
+}
+.logo-nav-col .sf-menu li.current-menu-item a {
+    color: #ffad33;
+}
+.logo-nav-col .sf-menu li li{
+    background: #ffad33;
+}
+.logo-nav-col .sf-menu li li li{
+    background: #ffad33;
+}
+.logo-nav-col .sf-menu li:hover a {
+    color: #ffad33;
+}
+.logo-nav-col .sf-menu li:hover li a{
+    background: #ffad33;
+}
+.logo-nav-col .sf-menu li:hover li:hover a{
+    color: #ffad33;
+}
+.logo-nav-col .sf-menu li:hover li:hover li a{
+     background: #ffad33;
+}
+.logo-nav-col .sf-menu li:hover li:hover li:hover a{
+    color: #ffad33;
+}
+.default-slider .slider-carousel-col .content .text-col p a{
+    border: 2px solid #ffad33;
+    background: #ffad33;
+}
+.default-slider .slider-carousel-col .owl-nav [class*=owl-]{
+    background: #ffad33;
+}
+.default-slider .slider-carousel-col .owl-nav [class*=owl-]:hover{
+    background: #ffad33;
+}
+.owl-theme .owl-dots .owl-dot.active span{
+    background: #ffad33;
+}
+.owl-theme .owl-dots .owl-dot.active:hover span{
+    background: #ffad33;
+}
+.owl-theme .owl-dots .owl-dot:hover span{
+    background: #ffad33;
+}
+.search-domain-col .domain h2{
+    color:#ffad33;
+}
+.search-domain-col .domain h2:after{
+    background: #ffad33;
+}
+.search-domain-col .domain .input form input[type="text"]{
+    border: 2px solid #ffad33;
+}
+.search-domain-col .domain .input button{
+    border: 2px solid #ffad33;
+    color:#ffad33;    
+}
+.search-domain-col .domain .input button:after{
+    background: #ffad33;
+}
+.search-domain-col .domain .list ul li i{
+    color:#ffad33;
+}
+.wordpress-hosting-col .icon i:hover{
+    color:#ffad33; 
+}
+.wordpress-hosting-col .text .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.wordpress-hosting-col .text .button a:after{
+    background: #ffad33;
+}
+.pricing-col .pricing  .pay{
+    background: #ffad33;
+}
+.pricing-col .pricing:hover  .pay h2{
+    color:#ffad33;
+}
+.pricing-col .pricing .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.pricing-col .pricing .button a:after{
+    background: #ffad33;
+}
+.counter-col .counter-bar .icon i{
+    color:#ffad33;
+    border: 10px solid #ffad33;
+}
+.kind-of-domain .search-domain input[type="text"]{
+    border: 1px solid #ffad33;
+}
+.kind-of-domain .search-domain button{
+    border: 1px solid #ffad33;
+    background: #ffad33;
+}
+.kind-of-domain .feature .feature-box .icon i{
+    color: #ffad33;
+}
+.kind-of-domain .feature .feature-box:hover .feature-text h2{
+    color: #ffad33;
+}
+.feature-col .feature .img{
+    background: #ffad33;
+}
+.feature-col .feature:hover .text h2{
+    color: #ffad33;
+}
+.diciding-col .text .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.diciding-col .text .button a:after{
+    background: #ffad33;
+}
+.control-panel-col .control-text .text h2 span{
+    color:#ffad33;
+}
+.control-panel-col .control-text .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.control-panel-col .control-text .button a:after{
+    background: #ffad33;
+}
+.hosting-panel .bg:hover .shared-hosting i{
+    color:#ffad33;
+}
+.hosting-panel .bg:hover .wordpress-hosting i{
+    color:#ffad33;
+}
+.hosting-overview-col .img img{
+    background: #ffad33;
+}
+.hosting-overview-col .text h2 span{
+    color:#ffad33;
+}
+.newsletter{
+    background: #ffad33;
+}
+.newsletter .input button{
+    color: #ffad33;
+}
+.footer-main .item .text h2:after{
+    background: #ffad33;
+}
+.specification-col .left-box .text{
+    background: #ffad33;
+}
+.specification-col .box .text{
+     background: #ffad33;
+}
+.specification-col .box .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.specification-col .box .button a:after{
+    background: #ffad33;
+}
+.hosting-gurantees-col .gurantees .img img{
+    background: #ffad33;
+}
+.additional-col .additional:hover{
+    background: #ffad33;
+}
+.additional-col .additional .icon i{
+    color: #ffad33;
+}
+.virtual-server .img{
+    background: #ffad33;
+}
+.blog-col .main-blog .img .overlay .overlay-icon a{
+    background: #ffad33;
+}
+.blog-col .main-blog .blog-body{
+    border-top: 5px solid #ffad33;
+}
+.blog-col .main-blog .blog-body .heading-text .date{
+    background: #ffad33;
+}
+.blog-col .main-blog:hover .blog-body .heading-text .heading h2{
+    color: #ffad33;
+}
+.blog-col .main-blog .blog-body .button a{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.blog-col .main-blog .blog-body .button a:after{
+    background: #ffad33;
+}
+.blog-col .blog-right{
+    background: #ffad33;
+}
+.blog-col .blog-right .tab-panel ul li.active a{
+    color:#ffad33;
+}
+.home-faq-col .home-faq  .panel-default .panel-heading.active a.accordion-toggle i{
+    background: #ffad33;
+}
+.home-faq-col .home-faq  .panel-default .panel-heading.active a.accordion-toggle.collapsed i{
+    background: #ffad33;
+}
+.home-faq-col .home-faq  .panel-default .panel-heading.active .panel-title a:after{
+    background: #ffad33;
+}
+.home-faq-col .home-faq  .panel-default .panel-heading.active .panel-title a.collapsed:after{
+    background: #ffad33;
+}
+.home-faq-col .home-faq  .panel-default .panel-heading{
+    background: #ffad33;
+}
+.faq-page-col .home-faq  .panel-default .panel-heading.active a.accordion-toggle i{
+    background: #ffad33;
+}
+.faq-page-col .home-faq  .panel-default .panel-heading.active a.accordion-toggle.collapsed i{
+    background: #ffad33;
+}
+.faq-page-col .home-faq  .panel-default .panel-heading.active .panel-title a:after{
+    background: #ffad33;
+}
+.faq-page-col .home-faq  .panel-default .panel-heading.active .panel-title a.collapsed:after{
+    background: #ffad33;
+}
+.faq-page-col .home-faq  .panel-default .panel-heading{
+    background: #ffad33;
+}
+.faq-page-col h2{
+    color:#ffad33;
+}
+.scrollup{
+    background: #ffad33;
+}
+.blog-col .blog-right .tab-panel ul li a{
+    background: #ffc266;
+}
+.testmonial-col  .owl-theme .owl-nav [class*='owl-']{
+    background: #ffad33;
+}
+.testmonial-col .main-carousel .testimonial-content .client-info .img img{
+    border: 2px solid #ffad33;
+}
+.contact-col .address .social ul li a{
+    color:#ffad33;
+}
+.contact-col .address .social ul li a i{
+    border: 1px solid #ffad33;
+    -webkit-transition: ease .4s all;
+    -moz-transition: ease .4s all;
+    -ms-transition: ease .4s all;
+    -o-transition: ease .4s all;
+    transition: ease .4s all;
+    
+}
+.contact-col .address .social ul li a i:hover{
+    background: #ffad33;
+    color:#fff;
+    border: 1px solid #ffad33;
+}
+.contact-col .address .address-bar .email a{
+    color:#ffad33!important;
+}
+.contact-col .input-feild .input .name-email input[type="text"]:focus{
+    border: 1px solid #ffad33;
+}
+.contact-col .input-feild .input .name-email input[type="email"]:focus{
+    border: 1px solid #ffad33;
+}
+.contact-col .input-feild .input .subject input[type="text"]:focus{
+    border: 1px solid #ffad33;
+}
+.contact-col .input-feild .input .massage-body textarea:focus{
+    border: 1px solid #ffad33;
+}
+.contact-col .input-feild .input button{
+    border: 2px solid #ffad33;
+    color:#ffad33;
+}
+.contact-col .input-feild .input button:after{
+    background: #ffad33;
+}
+.history-col .history h3{
+   color: #ffad33;     
+}
+.history-col .history h5{
+    background: #ffad33;
+}
+.service-col .service .icon i{
+    color:#ffad33;
+}
+.service-col .service:hover .text h2{
+    color:#ffad33;
+}
+.service-col .service{
+    border-bottom: 1px solid #ffad33;
+}
+.error-col .error-left .social ul li a{
+    color:#ffad33;
+    -webkit-transition: ease .4s all;
+    -moz-transition: ease .4s all;
+    -ms-transition: ease .4s all;
+    -o-transition: ease .4s all;
+    transition: ease .4s all;
+    
+}
+.blog-single .single-blog-details .title h3:hover{
+    color:#ffad33;
+}
+.blog-single .single-blog-details .blog-body .body-text-2{
+    border-left: 2px solid #ffad33;
+}
+.blog-single .about-author .list ul li a:hover{
+    color: #ffad33;
+}
+.blog-single .reply-comment .post-comment .left p a:hover{
+    background: #ffad33;
+}
+.blog-single .reply-comment .post-comment .left p a{
+    color: #ffad33;
+    border: 1px solid #ffad33;
+}
+.blog-single .reply-comment .post-comment{
+    border-bottom: 1px dashed #ffad33;
+}
+.slicknav_menu{
+    background: #ffad33;
+}
+.under-construction .input input[type="text"]:focus{
+    border: 1px solid #ffad33;
+}
+.under-construction .input button:hover{
+    color: #ffad33;
+}
